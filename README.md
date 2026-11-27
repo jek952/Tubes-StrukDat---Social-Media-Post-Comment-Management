@@ -1,6 +1,6 @@
 # Diajak Juan Strukdat
 
-![Dokumentasi Kelompok](https://cdn.discordapp.com/attachments/1570983821992534118/1574962571977695282/chall.png?ex=6b078db2&is=6b063c32&hm=e695b63ef5d8faea25612410e8bcbae17218c41a58d1adc08916ae979443578d)
+![Dokumentasi Kelompok](https://media.discordapp.net/attachments/1570983821992534118/1574962571977695282/chall.png?ex=6b0a30b2&is=6b08df32&hm=0b79bacbed5ff95d23fd172209b53f8284cda12da79aab11a793f52de95a0af0&format=webp&quality=lossless)
 
 ## Identitas Kelompok
 
